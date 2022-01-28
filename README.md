@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React
 - Typescript
 - SASS
-
+- Prismic
 
 ## 💻 Projeto
 
@@ -36,10 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   Para baixar o projeto siga as instruções
   
-    - git clone https://github.com/rogersene/Desafio-03-Ignite-Hook-Carrinho-Compras.git
-    - cd rocketshoes
+    - git clone https://github.com/rogersene/ignite-template-reactjs-criando-um-projeto-do-zero.git
+    - cd ignite-template-reactjs-criando-um-projeto-do-zero
   
   Instale as dependências e inicie o servidor da API: <br>
     - yarn install <br>
-    - yarn server (Iniciar server API) <br>
-    - yarn start in other terminal (Iniciar projeto) 🥳
+    - yarn dev in other terminal (Iniciar projeto) 🥳
