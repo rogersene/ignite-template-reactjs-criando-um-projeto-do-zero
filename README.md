@@ -1,5 +1,5 @@
 <h1 align="center">
- <img alt="spaceTraveling" src="https://github.com/rogersene/ignite-template-reactjs-criando-um-projeto-do-zero/tree/master/public/Logo.png" >
+ <img alt="spaceTraveling" src="https://github.com/rogersene/ignite-template-reactjs-criando-um-projeto-do-zero/tree/master/public/Logo.PNG" >
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
- <img alt="spaceTraveling" src="https://github.com/rogersene/ignite-template-reactjs-criando-um-projeto-do-zero/tree/master/public/Logo.png">
+ <img alt="spaceTraveling" src="https://github.com/rogersene/ignite-template-reactjs-criando-um-projeto-do-zero/tree/master/public/Logo.PNG">
 </p>
 
 
@@ -30,7 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- RocketShoes  : Este é um aplicativo que simula uma loja online com um carrinho de compras. Com as seguintes funcionalidades: Adicionar um novo produto ao carrinho; Remova um produto do carrinho; Altere a quantidade de um produto no carrinho; Cálculo dos preços subtotais e totais do carrinho; Validação de estoque; Exibição de mensagens de erro; Entre outros.
+- spacetraveling  : Este projeto é um blog contendo pagina de listagem dos posts (home) e outra página com o conteúdo do post.
+- Este projeto foi construido do zero por mim... desde a codificação do layout já criado no figma (layout criado pela Rocketseat), entre todas implementações e integrações com Prismic com intuito de colocar em prática conhecimentos já adiquiridos no bootcamp da RocketSeat.
 
 ## 💻 Como Instalar ?
 
