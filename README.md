@@ -1,5 +1,5 @@
 <h1 align="center">
- <img alt="RocketShoes" src="https://github.com/rogersene/ignite-template-reactjs-criando-um-projeto-do-zero/tree/master/public/Logo.SVG" >
+ <img alt="RocketShoes" src="https://github.com/rogersene/ignite-template-reactjs-criando-um-projeto-do-zero/tree/master/public/Logo.svg" >
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
- <img alt="RocketShoes" src="https://github.com/rogersene/Desafio-03-Ignite-Hook-Carrinho-Compras/blob/master/src/assets/images/Giphy.gif">
+ <img alt="RocketShoes" src="https://github.com/rogersene/ignite-template-reactjs-criando-um-projeto-do-zero/tree/master/public/Logo.svg">
 </p>
 
 
