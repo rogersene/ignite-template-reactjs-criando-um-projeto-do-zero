@@ -1,5 +1,4 @@
 .contentContainer {
-  width: 238;
   margin: 0 auto;
   padding: 5rem 7rem ;
   height: calc(100vh);
@@ -12,5 +11,37 @@
     width: 700px;
     height: 108px;
     margin-top: 60px;
+
+    h1 {
+      font-size: 1.75rem;
+    }
+    
+    p {
+      font-size: 1.125rem;
+      font-weight: normal;
+      line-height: 22px;
+      margin-top: 0.5rem;
+    }
+    .info {
+      display: flex;
+      flex-direction: row;
+      text-align: center;
+      align-items: center;
+      margin-top: 1.5rem;
+
+      div {
+        width: 18%;
+        margin-right: 1.5rem;
+        display: flex;
+        align-items: center; 
+        justify-content: space-between;   
+      }
+      p {
+        margin: 0;
+      }
+
+    }
   }
+
+
 }
